@@ -6,7 +6,11 @@ A mod for Tales of Eternia Remastered
 This mod adds the following artes to the Artes menu:
 
 - **Reid:** Gurenken and Dankuken
-- **Farah:** Kairyuken and Raisenken
+- **Farah:** Kairyuken and Raisenken <img width="1920" height="1080" alt="紅蓮剣 - frame at 0m1s" src="https://github.com/user-attachments/assets/d2293e71-639c-4a3f-8955-9733ac5bc26a" />
+<img width="1920" height="1080" alt="断空剣 - frame at 0m1s" src="https://github.com/user-attachments/assets/9b5e119d-72b7-4fd6-baae-a930493212ef" />
+<img width="1920" height="1080" alt="雷閃拳 - frame at 0m4s" src="https://github.com/user-attachments/assets/e76a42a0-d162-47aa-bc64-25344f206094" />
+<img width="1920" height="1080" alt="海龍拳 - frame at 0m1s" src="https://github.com/user-attachments/assets/2f12d095-a76c-4f90-9195-d298450cd762" />
+
 
 All four artes can be used as **Arcane Artes**.
 
