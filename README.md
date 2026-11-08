@@ -1,4 +1,4 @@
-# Eternia-Reid-Farah-MOD
+# Reid and Farah's Combination Arte Can Be Used at Any Time
 A mod for Tales of Eternia Remastered
 
 ## About This Mod
